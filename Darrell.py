@@ -1,0 +1,6 @@
+print("Hi, i'm Darrell but you can call me Dee")
+print("One thing i love most is tech and solving real-world problems")
+print("I'm a student of Ashesi University pursuing Management Information Systems")
+print("This is the furthest i can go for now")
+print("Hoping to learn more from you")
+print("Thank you!!!!")
