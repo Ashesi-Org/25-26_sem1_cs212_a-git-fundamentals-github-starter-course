@@ -1,0 +1,7 @@
+print("Hi, I'm chelsea")
+intrests=("teamwork,music")
+strenght=("punctuality,collaboration")
+weakness=("badcommuincation,public(speaking,anxiety)")
+print(“my interests: “, intrests)
+print(“my strengths: “ , strenght)
+print(“my weaknesses: “ , weakness)
